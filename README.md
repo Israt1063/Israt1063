@@ -1,8 +1,6 @@
-## Hi there 👋
-
-<h1 align="center">Hi, I'm [Israt Jahan]!</h1>
+<h1 align="center">Hi, I'm Israt Jahan!</h1>
 <p align="center">
-  Passionate Problem Solver | Software Engineering Student | Tech Enthusiast
+ Passionate Problem Solver | Software Engineering Student | Tech Enthusiast
 </p>
 
 ---
@@ -11,16 +9,12 @@
 
 - 🎓 Studying Software Engineering
 - 💻 Currently learning: C++, Python, and Java
-- 📧 How to reach me: isratjahan106398@gmail.com
+- 📧 How to reach me: israt1063@example.com
 - 🌱 Fun fact: I love solving algorithmic problems and exploring AI!
 
 ---
 
-### Connect with me:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)]([https://leetcode.com/u/isratjahan106398/])
-
----
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -36,8 +30,8 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Israt1063&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israt1063&layout=compact" />
 </p>
 
 ---
@@ -45,5 +39,5 @@
 ### Visitors Count:
 
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your_github_username" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Israt1063" alt="visitor badge"/>
 </p>
