@@ -9,7 +9,7 @@
 
 - 🎓 Studying Software Engineering
 - 💻 Currently learning: C++, Python, and Java
-- 📧 How to reach me: israt1063@example.com
+- 📧 How to reach me: isratjahan106398@gmail.com
 - 🌱 Fun fact: I love solving algorithmic problems and exploring AI!
 
 ---
