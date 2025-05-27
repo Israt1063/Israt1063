@@ -1,3 +1,9 @@
+### Profile views:
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Israt1063" alt="visitor badge"/>
+</p>
+
 <h1 align="center">Hi, I'm Israt Jahan!</h1>
 <p align="center">
  Passionate Problem Solver | Software Engineering Student | Tech Enthusiast
@@ -36,8 +42,4 @@
 
 ---
 
-### Visitors Count:
 
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Israt1063" alt="visitor badge"/>
-</p>
